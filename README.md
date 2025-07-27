@@ -24,14 +24,74 @@ Techs that I've used at least once
 
 ## 🖥️ Projects
 
-| 프로젝트 명 | 기간 | 링크 |
-|------------|------|------|
-| 🤖 **2023 실외 배달로봇 프로젝트** | — | [바로가기 🔗](https://github.com/seodawon/2023_outdoor_robot.git) |
-| 🤖 **2024 실외 배달로봇 프로젝트** | — | [바로가기 🔗](https://github.com/seodawon/2024_outdoor_robot.git) |
-| 🤖 **2024 Deepracer 자율주행 레이싱 프로젝트** | — | [바로가기 🔗](https://github.com/seodawon/deepracer.git) |
-| 🤖 **2024 실내 쇼핑로봇 프로젝트** | — | [바로가기 🔗](https://github.com/seodawon/indoor_robot.git) |
-| 🤖 **두산 ROKEY 지능-1 미니 프로젝트** | `2025.05.09 ~ 05.18` | [바로가기 🔗](https://github.com/seodawon/mini_project-argus.git) |
-| 🤖 **두산 ROKEY 지능-1 파이널 프로젝트** | `2025.05.18 ~ 05.22` | [바로가기 🔗](https://github.com/seodawon/Crack_AMR_robot.git) |
-| 🤖 **두산 ROKEY 협동-1 파이널 프로젝트** | `2025.05.23 ~ 06.05` | [바로가기 🔗](https://github.com/seodawon/MyHandy_cobot.git) |
-| 🤖 **두산 ROKEY 협동-2 파이널 프로젝트** | `2025.06.09 ~ 06.20` | [바로가기 🔗](https://github.com/seodawon/Fitomi_Assist_AI_Cobot.git) |
-| 🤖 **두산 ROKEY 협동-3 파이널 프로젝트** | `2025.06.23 ~ 07.04` | [바로가기 🔗](https://github.com/seodawon/DigitalTwin_AutoDriving.git) |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="280">
+      <b>🤖 2023 실외 배달로봇</b><br>
+      <a href="https://github.com/seodawon/2023_outdoor_robot.git">
+        🔗 Repository
+      </a>
+    </td>
+    <td align="center" width="280">
+      <b>🤖 2024 실외 배달로봇</b><br>
+      <a href="https://github.com/seodawon/2024_outdoor_robot.git">
+        🔗 Repository
+      </a>
+    </td>
+    <td align="center" width="280">
+      <b>🏎️ 2024 Deepracer 레이싱</b><br>
+      <a href="https://github.com/seodawon/deepracer.git">
+        🔗 Repository
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🛒 2024 실내 쇼핑로봇</b><br>
+      <a href="https://github.com/seodawon/indoor_robot.git">
+        🔗 Repository
+      </a>
+    </td>
+    <td align="center">
+      <b>🧠 ROKEY 지능-1 미니</b><br>
+      <small>2025.05.09 ~ 05.18</small><br>
+      <a href="https://github.com/seodawon/mini_project-argus.git">
+        🔗 Repository
+      </a>
+    </td>
+    <td align="center">
+      <b>🧠 ROKEY 지능-1 파이널</b><br>
+      <small>2025.05.18 ~ 05.22</small><br>
+      <a href="https://github.com/seodawon/Crack_AMR_robot.git">
+        🔗 Repository
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🤝 ROKEY 협동-1</b><br>
+      <small>2025.05.23 ~ 06.05</small><br>
+      <a href="https://github.com/seodawon/MyHandy_cobot.git">
+        🔗 Repository
+      </a>
+    </td>
+    <td align="center">
+      <b>🤝 ROKEY 협동-2</b><br>
+      <small>2025.06.09 ~ 06.20</small><br>
+      <a href="https://github.com/seodawon/Fitomi_Assist_AI_Cobot.git">
+        🔗 Repository
+      </a>
+    </td>
+    <td align="center">
+      <b>🤝 ROKEY 협동-3</b><br>
+      <small>2025.06.23 ~ 07.04</small><br>
+      <a href="https://github.com/seodawon/DigitalTwin_AutoDriving.git">
+        🔗 Repository
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
