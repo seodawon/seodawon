@@ -24,74 +24,30 @@ Techs that I've used at least once
 
 ## 🖥️ Projects
 
-<div align="center">
+---
 
-<table>
-  <tr>
-    <td align="center" width="280">
-      <b>🤖 2023 실외 배달로봇</b><br>
-      <a href="https://github.com/seodawon/2023_outdoor_robot.git">
-        🔗 Repository
-      </a>
-    </td>
-    <td align="center" width="280">
-      <b>🤖 2024 실외 배달로봇</b><br>
-      <a href="https://github.com/seodawon/2024_outdoor_robot.git">
-        🔗 Repository
-      </a>
-    </td>
-    <td align="center" width="280">
-      <b>🏎️ 2024 Deepracer 레이싱</b><br>
-      <a href="https://github.com/seodawon/deepracer.git">
-        🔗 Repository
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>🛒 2024 실내 쇼핑로봇</b><br>
-      <a href="https://github.com/seodawon/indoor_robot.git">
-        🔗 Repository
-      </a>
-    </td>
-    <td align="center">
-      <b>🧠 ROKEY 지능-1 미니</b><br>
-      <small>2025.05.09 ~ 05.18</small><br>
-      <a href="https://github.com/seodawon/mini_project-argus.git">
-        🔗 Repository
-      </a>
-    </td>
-    <td align="center">
-      <b>🧠 ROKEY 지능-1 파이널</b><br>
-      <small>2025.05.18 ~ 05.22</small><br>
-      <a href="https://github.com/seodawon/Crack_AMR_robot.git">
-        🔗 Repository
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>🤝 ROKEY 협동-1</b><br>
-      <small>2025.05.23 ~ 06.05</small><br>
-      <a href="https://github.com/seodawon/MyHandy_cobot.git">
-        🔗 Repository
-      </a>
-    </td>
-    <td align="center">
-      <b>🤝 ROKEY 협동-2</b><br>
-      <small>2025.06.09 ~ 06.20</small><br>
-      <a href="https://github.com/seodawon/Fitomi_Assist_AI_Cobot.git">
-        🔗 Repository
-      </a>
-    </td>
-    <td align="center">
-      <b>🤝 ROKEY 협동-3</b><br>
-      <small>2025.06.23 ~ 07.04</small><br>
-      <a href="https://github.com/seodawon/DigitalTwin_AutoDriving.git">
-        🔗 Repository
-      </a>
-    </td>
-  </tr>
-</table>
+### 🗓️ 2023
+| 프로젝트 | 설명 | 기간 | 사용 스택 |
+|----------|------|------|----------|
+| 🤖 [실외 배달로봇](https://github.com/seodawon/2023_outdoor_robot.git) | 실외 배달 로봇 프로젝트 |  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-F7DF1E?style=flat&logo=ros&logoColor=black) |
 
-</div>
+---
+
+### 🗓️ 2024
+| 프로젝트 | 설명 | 기간 | 사용 스택 |
+|----------|------|------|----------|
+| 🤖 [2024 실외 배달로봇](https://github.com/seodawon/2024_outdoor_robot.git) | 개선된 실외 배달 로봇 프로젝트 |  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-F29111?style=flat&logo=arm&logoColor=white) |
+| 🏎️ [Deepracer 자율주행](https://github.com/seodawon/deepracer.git) | 자율주행 레이싱 프로젝트 |  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) |
+| 🛒 [실내 쇼핑로봇](https://github.com/seodawon/indoor_robot.git) | 시각장애인 지원 스마트 쇼핑 프로젝트 |  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) |
+
+---
+
+### 🗓️ 2025
+| 프로젝트 | 설명 | 기간 | 사용 스택 |
+|----------|------|------|----------|
+| 🧠 [ROKEY 지능-1 미니](https://github.com/seodawon/mini_project-argus.git) | 지뢰 탐지 로봇 |  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-F7DF1E?style=flat&logo=ros&logoColor=black) |
+| 🧠 [ROKEY 지능-1 파이널](https://github.com/seodawon/Crack_AMR_robot.git) |  로봇 |  | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🤝 [ROKEY 협동-1](https://github.com/seodawon/MyHandy_cobot.git) | 가사 도우미 협동 로봇 프로젝트 |  | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-F29111?style=flat&logo=arm&logoColor=white) |
+| 🤝 [ROKEY 협동-2](https://github.com/seodawon/Fitomi_Assist_AI_Cobot.git) | 발전된 가사 도우미 협동 로봇 프로젝트|  | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
+| 🤝 [ROKEY 협동-3](https://github.com/seodawon/DigitalTwin_AutoDriving.git) | 디지털트윈 AMR 프로젝트 |  | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+
