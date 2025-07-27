@@ -23,6 +23,20 @@ Techs that I've used at least once
 ---
 
 ## 🖥️ Projects
+## 🖥️ Projects
+
+---
+
+### 🗓️ 2025
+| 프로젝트 | 설명 | 기간 | 사용 스택 |
+|----------|------|------|----------|
+| 🤝 [ROKEY 협동-3](https://github.com/seodawon/DigitalTwin_AutoDriving.git) | 디지털트윈 기반 AMR 프로젝트 | `2025.06.23 ~ 2025.07.04` | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-F7DF1E?style=flat&logo=ros&logoColor=black) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![TurtleBot3](https://img.shields.io/badge/TurtleBot3-00ADEF?style=flat&logo=robotframework&logoColor=white) |
+| 🤝 [ROKEY 협동-2](https://github.com/seodawon/Fitomi_Assist_AI_Cobot.git) | 발전된 가사 도우미 협동 로봇 프로젝트 | `2025.06.09 ~ 2025.06.20` | ![YOLOv8 OBB](https://img.shields.io/badge/YOLOv8_OBB-FF3366?style=flat&logo=github&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-F7DF1E?style=flat&logo=ros&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-FF9900?style=flat&logo=openai&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
+| 🤝 [ROKEY 협동-1](https://github.com/seodawon/MyHandy_cobot.git) | 가사 도우미 협동 로봇 프로젝트 | `2025.05.23 ~ 2025.06.05` | ![Ubuntu](https://img.shields.io/badge/Ubuntu_22.04-E95420?style=flat&logo=ubuntu&logoColor=white) ![ROS2 Humble](https://img.shields.io/badge/ROS2_Humble-F7DF1E?style=flat&logo=ros&logoColor=black) ![Doosan m0609](https://img.shields.io/badge/Doosan_m0609-005BAC?style=flat&logo=robotframework&logoColor=white) ![Doosan SDK](https://img.shields.io/badge/SDK-0066CC?style=flat&logo=code&logoColor=white) ![Python](https://img.shields.io/badge/Python_3.8-3776AB?style=flat&logo=python&logoColor=white) |
+| 🧠 [ROKEY 지능-1 파이널](https://github.com/seodawon/Crack_AMR_robot.git) | 균열 탐지 멀티 로봇 프로젝트 | `2025.05.18 ~ 2025.05.22` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF3366?style=flat&logo=github&logoColor=white) ![TurtleBot4](https://img.shields.io/badge/TurtleBot4-00ADEF?style=flat&logo=robotframework&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-F7DF1E?style=flat&logo=ros&logoColor=black) |
+| 🧠 [ROKEY 지능-1 미니](https://github.com/seodawon/mini_project-argus.git) | 지뢰 탐지 로봇 | `2025.05.09 ~ 2025.05.18` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![YOLOv8](https://img.shields.io/badge/YOLOv8-FF3366?style=flat&logo=github&logoColor=white) ![TurtleBot4](https://img.shields.io/badge/TurtleBot4-00ADEF?style=flat&logo=robotframework&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-F7DF1E?style=flat&logo=ros&logoColor=black) |
+
+---
 
 ---
 
